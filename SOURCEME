@@ -1,0 +1,4 @@
+export DYLD_LIBRARY_PATH=/System/Library/Frameworks/ImageIO.framework/Versions/A/Resources:/Users/shingo/.pyenv/versions/anaconda-2.0.1/lib:$DYLD_LIBRARY_PATH
+export PYTHONPATH=~/Documents/github/BVLC/caffe/distribute/python:$PYTHONPATH
+
+
